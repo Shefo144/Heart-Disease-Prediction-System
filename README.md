@@ -17,7 +17,7 @@ The dataset used in this project contains several medical features such as:
 - Blood Pressure
 - Cholesterol
 - Maximum Heart Rate
-- وغيرها من العوامل المهمة
+
 
 The target variable:
 
